@@ -26,8 +26,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I know***
 <p align="left">
   
-  <code><img height="50" src="Resources/python.png"></code><code> 
-  <img height="50" src="Resources/C.png"> </code>
+  <code> <img height="50" src="Resources/C.png"> </code>
   <code> <img height="50" src="Resources/java.png"> </code>
   <code> <img height="50" src="Resources/php.png"> </code>
   <code> <img height="50" src="Resources/go.png"> </code>
