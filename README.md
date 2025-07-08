@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Violeta Solorio</h1>
-<h3 align="center">Software Engineer | Jack of all Trades Enthusiast</h3>
+<h3 align="center">Software Engineer | Tech Enthusiast</h3>
 
 </p>
 <h3 align="left">Connect with me:</h3>
