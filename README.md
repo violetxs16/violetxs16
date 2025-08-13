@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Violeta Solorio</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Violet Solorio</h1>
 <h3 align="center">Software Engineer | Tech Enthusiast</h3>
 
 </p>
